@@ -83,7 +83,10 @@ h3{
 .blog{
     width: 30%;
     float: left;
-    padding: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 1%;
+    box-shadow: 10px 10px 40px rgb(202, 202, 202) ;
 }
 .abc{
     background-image: url("images/Group_33094_1.png");
